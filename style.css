@@ -1,0 +1,30 @@
+
+.img {
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: bottom;
+  height: 100vh;
+}
+.img1 {
+  background-image: url("./834de22ba9ea964ef2cb047308b728d7.jpg");
+}
+
+.img2 {
+  background-image: url("./2475b3eb693631c381242113ad406029.jpg");
+}
+
+.img3 {
+  background-image: url("./a431970427640481a808ae2221e6c813.jpg");
+}
+
+.img4 {
+  background-image: url("./f9a4eaa1feece0f7a46838b5a6d33191.jpg");
+}
+
+.spacer {
+  height: 30vh;
+}
+
+.header-text {
+  margin: 20px;
+}
